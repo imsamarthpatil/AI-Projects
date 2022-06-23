@@ -1,2 +1,2 @@
 # AI-Projects
-This repo consist of AI projects that I have completed during my undergrad year for academics, self learning and hobby purpose. Presented in the iPython Notebooks and Python files.
+This repository contains AI projects that I developed throughout my undergrad year for academic, self-education, and hobby purposes in the areas of machine learning, natural language processing (NLP), computer vision, robotics, and the internet of things (IoT). The iPython Notebooks, .py, and .ino Arduino files provided with its documentation . Below is a description of each project.
